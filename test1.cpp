@@ -2,9 +2,11 @@
 //
 
 #include <iostream>
+using namespace std;
 
 int main()
 {
-    cout << "john wick" << endl;
+    cout << "john Doe" << endl;
+    
     cout << "this is my name" << endl; // these are my changes
 }
